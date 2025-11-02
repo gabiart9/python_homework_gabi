@@ -1,5 +1,5 @@
 # python_homework_gabi
-__repository to submit python homwork__  
+__repository to submit python homework__  
 intro to programming - november 2025 
 ## folders:
 * <ins>aoc25</ins>:  
