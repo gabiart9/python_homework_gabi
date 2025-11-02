@@ -2,11 +2,11 @@
 __repository to submit python homwork__  
 intro to programming - november 2025 
 ## folders:
-* <ins>data</ins>:  
-  to be ignored
+* <ins>aoc25</ins>:  
+  advent calendar of small programming puzzles
 * <ins>misc</ins>:  
   miscellaneous files
 * <ins>rosalind</ins>:  
   problem solving exercises for learning bioinformatics and programming
-* <ins>aoc25</ins>:  
-* advent calendar of small programming puzzles
+* <ins>data</ins>:  
+  to be ignored
