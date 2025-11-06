@@ -6,6 +6,10 @@ intro to programming - november 2025
   advent calendar of small programming puzzles
 * <ins>misc</ins>:  
   miscellaneous files
+   - homework_misc  
+       homework files  
+   - ue_transcript  
+       course-transcripts  
 * <ins>rosalind</ins>:  
   problem solving exercises for learning bioinformatics and programming
 * <ins>data</ins>:  
